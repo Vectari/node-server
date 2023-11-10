@@ -13,3 +13,6 @@ if (fs.existsSync("./new")) {
     console.log("Director removed");
   });
 }
+
+// https://youtu.be/f2EqECiTBL8?si=11ZXuOhfbj1-X3pe&t=2719
+// https://youtu.be/f2EqECiTBL8?si=11ZXuOhfbj1-X3pe&t=2719
